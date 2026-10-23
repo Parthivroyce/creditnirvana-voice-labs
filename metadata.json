@@ -1,0 +1,6 @@
+{
+  "name": "CreditNirvana Voice Labs",
+  "description": "Enterprise Voice AI testing lab with Personal Loan Settlement and Car Insurance Renewal agents, Sarvam AI voice pipeline, dual-channel audio recording, compliance scoring, and recruiter submission deliverables.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
